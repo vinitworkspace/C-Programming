@@ -1,0 +1,15 @@
+Array is a collection of similar data types 
+
+Syntax:- int a[]
+                (SIZE OF THE ARRAY/CAPACITY)
+Array can be of Primitive data types,Structure(User define data type),Pointer etc.
+
+Array Itself a pointer 
+
+1.Call By Value 
+2.Call By Reference
+*Address makes the difference 
+
+Lists
+
+ 
